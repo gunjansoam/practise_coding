@@ -62,6 +62,25 @@
 
 
 
-//arrays in js
+//methods in array
+// push method  -> add at the end [items.push("itmename")]
+// let items = ["graps",'apple','banana','blueberry',]
+// items.push('paneer','makkhan');//change in original array
+// console.log(items);
+
+
+// pop method -> delete from end & return
+// it also change in original array
+// let fooditems = ["patato","apple","litchi","onian"]
+// console.log(fooditems);
+// let deleteditem = fooditems.pop();
+// console.log("deleted item",deleteditem);
+// console.log(fooditems);
+
+// tostring method -> convert array to string
+let str
+
+
+
 
 
