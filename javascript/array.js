@@ -78,7 +78,44 @@
 // console.log(fooditems);
 
 // tostring method -> convert array to string
-let str
+// let str = ["javascript","python","html","css"];
+// console.log(str);
+// console.log(str.toString());
+// console.log(str);
+// let marks = [97,45,89,56,36];
+// console.log(marks);
+// console.log(marks.toString());
+
+
+// conacat method -> joins multiple arrays &  return result 
+
+// let branch = ['cs','ec','ce','ae'];
+// let otherbranch = ['mca','bca','bba'];
+// let scibranch = ['b.sc','b.hons']
+// let allbranch = branch.concat(otherbranch,scibranch);
+// console.log(allbranch);
+
+
+// slice(): returns a piece of the aaray
+// do not change in original array
+
+// let branch = ['cs','ec','ce','ae'];
+// console.log(branch);
+// console.log(branch.slice(1,3));
+
+
+// splice method -> change in original Array(add ,remove,replace)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
