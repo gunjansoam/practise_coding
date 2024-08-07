@@ -106,6 +106,20 @@
 
 // splice method -> change in original Array(add ,remove,replace)
 
+// QS
+let ar = [24,34,24,99,99,95,95,67];
+for(let i=0; i<ar.length;i++){
+    if(ar[i]==ar[i]){
+        
+
+    }
+    
+
+}
+
+
+
+
 
 
 
