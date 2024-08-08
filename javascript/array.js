@@ -106,19 +106,39 @@
 
 // splice method -> change in original Array(add ,remove,replace)
 
-// QS
-let ar = [24,34,24,99,99,95,95,67];
-for(let i=0; i<ar.length;i++){
-    if(ar[i]==ar[i]){
-        
+// QS print repeated number
 
-    }
-    
+// let ar = [24,24,34,56,99,95,95,9955,9955];
+// for(i = 0; i<ar.length;i++){
+//     for(j= i+1; j<ar.length;j++){
+//         if(ar[i]==ar[j]){
+//             console.log(ar[i])
+//         }
+//     }
+// }
 
+//functions and methods
+// function myfunction(){ // parameter
+//     console.log("Gunjan soam");
+//     console.log("A web developer");
+
+// }
+// myfunction();
+
+
+// function infunction(msg){
+//     console.log(msg);
+// }
+// infunction("learning javascript");
+
+//function sum two number
+function sum(x,y) {
+    s = x+y;
+    return s;
 }
 
-
-
+ let val = sum(8+5);
+ console.log(val);
 
 
 
