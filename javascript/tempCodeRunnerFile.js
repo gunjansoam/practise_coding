@@ -1,13 +1,2 @@
-console.log("a+b=",a+b)
-// console.log("a-b=",a-b)
-// console.log("a*b=",a*b)
-// console.log("a/b=",a/b)
-// console.log("a%b=",a%b)
-// console.log("a**b=",a**b)
-// console.log("a++=",a++)
-// console.log("a--=",a--)
-// console.log(a)
-// console.log("++a=",++a)
-// console.log(a)
-// console.log("--a=",--a)
-// console.log(a)
+function sum( a, b){
+//     return a +b;

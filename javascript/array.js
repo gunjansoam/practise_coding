@@ -132,13 +132,67 @@
 // infunction("learning javascript");
 
 //function sum two number
-function sum(x,y) {
-    s = x+y;
-    return s;
-}
+// function sum(x,y) {
+//     s = x+y;
+//     return s;
+// }
 
- let val = sum(8+5);
- console.log(val);
+//  let val = sum(8,5);
+//  console.log(val);
+
+
+//  note : local var of function are block scope
+
+// sum function
+// function sum( a, b){
+//     return a +b;
+
+// }
+// arrow functions 
+// function mul(a,b){
+//     return a*b;
+
+// }
+// const arrowmul = (a,b)=> {
+//     return a*b;
+// }
+
+// Qs : creat  a function using the "function" keyword that takes a string as an argument and return the number of vowels in the string.
+
+// function countvowels(str){
+//     let count = 0;
+// for (const char of str){
+//     if(
+//         char==="a"||
+//         char==="e"||
+//         char ==="i"||
+//         char ==="o"||
+//         char==="u"
+//     ){
+//         count++;
+//     }
+// }
+// console.log(count);
+// }
+ 
+// const countvol = (str) => {
+//      let  vowel = "aeiouAEIOU";
+//      let count = 0;
+//      for(i = 0; i<str.length; i++){
+//         if(vowel.includes(str[i])){
+//             count++;
+//         }
+            
+//      }
+//      return count;
+     
+
+// }
+// console.log(countvol());
+
+let temperature = 25.5;
+console.log("Clesius-",25.5);
+console.log("Klevin-",25.5+273);
 
 
 
