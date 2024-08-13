@@ -64,7 +64,7 @@
 // console.log(`after swapping the values are a is ${a} and b is ${b}`)
 
 
-//Qs conversion kilometers into miles
+
 
 
 
