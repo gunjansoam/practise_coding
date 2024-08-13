@@ -43,6 +43,36 @@
 // let area = Math.sqrt(ar);
 // console.log("area of triangle is",area);
 
+// Qs swap value with temperory varibale
+// let a = prompt("enter the value of first variable:");
+// let b = prompt("enter the value for b variable:");
+// console.log(`the value of a is ${a}  and b is ${b}`);
+// let temp ;
+// temp = a;
+// a = b;
+// b = temp;
+// console.log(`after swapping values are a is ${a} b is ${b}`);
+
+
+// qs swap without using temp variable
+// let a = parseInt(prompt("enter the value of A:"));
+// let b = parseInt(prompt("enter the value of b:"));
+// console.log(`the value of a is ${a} and b is ${b}`)
+// a = a+b;
+// b = a-b;
+// a = a-b;
+// console.log(`after swapping the values are a is ${a} and b is ${b}`)
+
+
+//Qs conversion kilometers into miles
+
+
+
+
+
+
+
+
 
 
 
